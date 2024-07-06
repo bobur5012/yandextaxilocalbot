@@ -2,6 +2,13 @@ const TelegramBot = require('node-telegram-bot-api');
 const axios = require('axios');
 const { v4: uuidv4 } = require('uuid');
 const fs = require('fs');
+const express = require('express');
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+});
 
 const token = '7307573228:AAHF-KQ_gzuJWK9T-if_8m7Lamc06BIOmN0';
 const yandexApiKey = '3336a293-1de9-417d-8e5e-31288126061c';  // API ключ для Яндекс.Карт
