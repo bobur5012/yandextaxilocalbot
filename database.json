@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "83003c59-010c-4839-b939-76c0a42d0097",
+      "username": "botiroffb",
+      "userId": 349284259,
+      "trackingId": "2f2c5e94-8c7c-466b-a308-ab07aba248fe",
+      "limit_status": 1,
+      "usage_count": 4,
+      "invited_by": null
+    },
+    {
+      "id": "d9f256f2-467d-4710-8ae9-5d77b0149d0a",
+      "username": "brunisool",
+      "userId": 6189806753,
+      "trackingId": "29af01f0-cd44-4427-ac49-13592e41556a",
+      "limit_status": 1,
+      "usage_count": 2,
+      "invited_by": 349284259
+    },
+    {
+      "id": "e5b8e03c-5551-46ef-88e3-29f4f2f0d61d",
+      "username": "botiroffdes",
+      "userId": 6519212505,
+      "trackingId": "7b0abc03-7261-4563-b447-184e25986c99",
+      "limit_status": 0,
+      "usage_count": 0,
+      "invited_by": 6189806753
+    }
+  ]
+}
