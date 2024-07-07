@@ -10,7 +10,7 @@ app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
 
-const token = '7307573228:AAHF-KQ_gzuJWK9T-if_8m7Lamc06BIOmN0';
+const token = '7307573228:AAEZ-n22-KGt4OCx8TmwiQqjY4C7b0dKhoo';
 const yandexApiKey = '3336a293-1de9-417d-8e5e-31288126061c';  // API ключ для Яндекс.Карт
 const adminUsername = 'botiroffb';  // Имя пользователя администратора
 const adminChatId = '349284259';
